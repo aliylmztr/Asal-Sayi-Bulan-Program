@@ -1,12 +1,6 @@
-# Asal-Sayi-Bulan-Program
-Java Asal Sayı Bulan Program
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
-    
     static void prime(int a) {
         int counter = 0;
         for (int i = 1; i <= a; i++) {
